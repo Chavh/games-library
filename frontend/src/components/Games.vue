@@ -1,5 +1,4 @@
-// @Bek Brace [ Twitter - Dev.to - GitHub ] // bekbrace.com - info@bekbrace.com
-// Source Code : Michael Hermann [ mjheaO ]
+//Games library main view
 
 <!--<template>
   <div class="container">
