@@ -11,6 +11,7 @@
 - Add, delete and update games info to the library.
 - TODO: Admin functionality to add, edit and delete games
 - TODO: User Roles, permissions etc
+- TODO: Add CI/CD
 
 ## Getting Started
 To run the app locally, you will need to have Node.js, Python, Flask and PostgreSQL installed.
